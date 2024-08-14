@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-openai
+langchain-experimental
+neo4j
+wikipedia
+tiktoken
+python-dotenv
+flask
+flask_cors
